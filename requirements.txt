@@ -1,0 +1,8 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+openpyxl
+pandas
+pandas-stubs
+pdfkit  # Needs system pkg wkhtmltopdf
+python-docx
